@@ -1,5 +1,5 @@
 # Detecting-Suspicious-Network-Traffic
-Project Highlights: 
+Project Highlights:  <br>
 • Installed and configured Suricata on the client. <br> 
 • Created a custom detection rule for TCP port scanning. <br>
 • Forwarded Suricata alerts to the Wazuh Dashboard for real-time monitoring. <br>
